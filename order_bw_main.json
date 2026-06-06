@@ -24,5 +24,109 @@
         "options": {}
       }
     ]
+  },
+  {
+    "id": 1780749412360,
+    "card": [
+      {
+        "imageSrc": "img/JORDAN+SPIZIKE+LOW.avif",
+        "productName": "Air Jordan 1 Bun",
+        "productPrice": "289 AZN",
+        "count": "5",
+        "getId": "ORZ9008",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/JORDAN+SPIZIKE+LOW+GS.avif",
+        "productName": "Air Jordan 1 Destiny",
+        "productPrice": "187 AZN",
+        "count": "3",
+        "getId": "SHA7064",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/AIR+JORDAN+1+RETRO+HIGH+OG+FC (1).avif",
+        "productName": "Air Jordan 1 MID",
+        "productPrice": "150 AZN",
+        "count": "5",
+        "getId": "ZZU6142",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/7929578.jpg",
+        "productName": "klefjf",
+        "productPrice": "146.97 AZN",
+        "count": "2",
+        "getId": "RRE3209",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/7929578.jpg",
+        "productName": "Air Fryer Euroacs EU-AF1208",
+        "productPrice": "115.10 AZN",
+        "count": "5",
+        "getId": "CVS0492",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/7929578.jpg",
+        "productName": "Air Fryer Euroacs EU-AF1208",
+        "productPrice": "115.10 AZN",
+        "count": "2",
+        "getId": "QNI5947",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/110521-1339aac65086d51bb7297bc13d1c9a41.jpg",
+        "productName": "new products",
+        "productPrice": "14.55 AZN",
+        "count": 1,
+        "getId": "SDI0073",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/JORDAN+SPIZIKE+LOW.avif",
+        "productName": "Air Jordan 1 Bun",
+        "productPrice": "289 AZN",
+        "count": 1,
+        "getId": "CXO3105",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/JORDAN+SPIZIKE+LOW+GS.avif",
+        "productName": "Air Jordan 1 Destiny",
+        "productPrice": "187 AZN",
+        "count": 1,
+        "getId": "BHW6570",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/AIR+JORDAN+1+RETRO+HIGH+OG+FC (1).avif",
+        "productName": "Air Jordan 1 MID",
+        "productPrice": "150 AZN",
+        "count": 1,
+        "getId": "QTF2100",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/Tabloid - 1.png",
+        "productName": "sadsa",
+        "productPrice": "123 AZN",
+        "count": 1,
+        "getId": "UEK6212",
+        "brand": "",
+        "options": {
+          "Color": [
+            "Black"
+          ],
+          "Size": [
+            "XXL"
+          ],
+          "Qram": [
+            "28-33"
+          ]
+        }
+      }
+    ]
   }
 ]
