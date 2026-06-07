@@ -174,5 +174,23 @@
         }
       }
     ]
+  },
+  {
+    "id": 1780828117647,
+    "card": [
+      {
+        "imageSrc": "img/ea9d8ce5742588d53d65afc7ee182915.png",
+        "productName": "Klassiko",
+        "productPrice": "14.90 AZN",
+        "count": 1,
+        "getId": "HUD1607",
+        "brand": "",
+        "options": {
+          "Ölçü": [
+            "Orta"
+          ]
+        }
+      }
+    ]
   }
 ]
