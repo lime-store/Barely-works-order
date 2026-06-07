@@ -128,5 +128,51 @@
         }
       }
     ]
+  },
+  {
+    "id": 1780828089657,
+    "card": [
+      {
+        "imageSrc": "img/Tabloid - 1.png",
+        "productName": "sadsa",
+        "productPrice": "123 AZN",
+        "count": 1,
+        "getId": "NIS5590",
+        "brand": "",
+        "options": {
+          "Color": [
+            "White"
+          ],
+          "Size": [
+            "XXL"
+          ],
+          "Qram": [
+            "23-28"
+          ]
+        }
+      },
+      {
+        "imageSrc": "img/AIR+JORDAN+1+MID.avif",
+        "productName": "Air Jordan 1",
+        "productPrice": "349 AZN",
+        "count": 1,
+        "getId": "YJQ9643",
+        "brand": "",
+        "options": {}
+      },
+      {
+        "imageSrc": "img/3344c220d694081c69d2dd9fd98117473.png",
+        "productName": "Pizza",
+        "productPrice": "33.90 AZN",
+        "count": 1,
+        "getId": "PLA9662",
+        "brand": "",
+        "options": {
+          "Ölçü": [
+            "Böyük"
+          ]
+        }
+      }
+    ]
   }
 ]
