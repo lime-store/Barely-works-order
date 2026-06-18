@@ -192,5 +192,107 @@
         }
       }
     ]
+  },
+  {
+    "id": 1781785880161,
+    "card": [
+      {
+        "imageSrc": "img/865849WTRS21011_J.jpg",
+        "productName": "Triple S.2 Sneaker ",
+        "productPrice": "299 AZN",
+        "count": 1,
+        "getId": "EIX8215",
+        "brand": "",
+        "options": {
+          "Ölçü": [
+            "40"
+          ]
+        }
+      },
+      {
+        "imageSrc": "img/AIR+JORDAN+1+MID.avif",
+        "productName": "Air Jordan 1",
+        "productPrice": "349 AZN",
+        "count": 1,
+        "getId": "JFE9144",
+        "brand": "",
+        "options": {}
+      },
+      {
+        "imageSrc": "img/3344c220d694081c69d2dd9fd98117473.png",
+        "productName": "Pizza",
+        "productPrice": "19.90 AZN",
+        "count": 1,
+        "getId": "FTZ5530",
+        "brand": "",
+        "options": {}
+      },
+      {
+        "imageSrc": "img/ea9d8ce5742588d53d65afc7ee182915.png",
+        "productName": "Klassiko",
+        "productPrice": "10.90 AZN",
+        "count": 1,
+        "getId": "XHP4251",
+        "brand": "",
+        "options": {}
+      },
+      {
+        "imageSrc": "img/6a252e27e476b_ee49df869c6250cc32e22c13d8b5ef2e.png",
+        "productName": "Texas",
+        "productPrice": "13.90 AZN",
+        "count": 1,
+        "getId": "IHH4562",
+        "brand": "",
+        "options": {}
+      },
+      {
+        "imageSrc": "img/3344c220d694081c69d2dd9fd98117473.png",
+        "productName": "Pizza",
+        "productPrice": "25.90 AZN",
+        "count": 1,
+        "getId": "TLJ1185",
+        "brand": "",
+        "options": {
+          "Ölçü": [
+            "Orta"
+          ]
+        }
+      },
+      {
+        "imageSrc": "img/ea9d8ce5742588d53d65afc7ee182915.png",
+        "productName": "Klassiko",
+        "productPrice": "10.90 AZN",
+        "count": 1,
+        "getId": "ALL2296",
+        "brand": "",
+        "options": {}
+      },
+      {
+        "imageSrc": "img/3344c220d694081c69d2dd9fd98117473.png",
+        "productName": "Pizza",
+        "productPrice": "33.90 AZN",
+        "count": 1,
+        "getId": "EOC0251",
+        "brand": "",
+        "options": {
+          "Ölçü": [
+            "Böyük"
+          ]
+        }
+      },
+      {
+        "imageSrc": "img/865849WTRS21169_E.jpg",
+        "productName": "Triple S.2 Sneaker in grey",
+        "productPrice": "299 AZN",
+        "count": 1,
+        "getId": "AUT3095",
+        "brand": "",
+        "options": {
+          "Ölçü 2": [
+            "41"
+          ]
+        }
+      }
+    ]
   }
 ]
