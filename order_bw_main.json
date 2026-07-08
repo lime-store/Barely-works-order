@@ -294,5 +294,32 @@
         }
       }
     ]
+  },
+  {
+    "id": 1783506607068,
+    "card": [
+      {
+        "imageSrc": "img/JORDAN+SPIZIKE+LOW+GS.avif",
+        "productName": "Air Jordan 1 Destiny",
+        "productPrice": "187 AZN",
+        "count": 1,
+        "getId": "DCE2764",
+        "brand": "",
+        "options": {}
+      },
+      {
+        "imageSrc": "img/3344c220d694081c69d2dd9fd98117473.png",
+        "productName": "Pizza",
+        "productPrice": "33.90 AZN",
+        "count": 1,
+        "getId": "TKA0156",
+        "brand": "",
+        "options": {
+          "Ölçü": [
+            "Böyük"
+          ]
+        }
+      }
+    ]
   }
 ]
